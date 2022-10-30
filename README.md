@@ -16,3 +16,5 @@ This repo contains all the projects that I have done in the last few months. Mos
 the head (of course, we store this location using a pointer).
 
 7.Organisation Hierarchy- This is a project in C language. Here we can know the position of each employee working in a company.I have used nodes and linked list to create this function.
+
+8.personal_AI- This project is a simple but effective AI for your desktop. You can use it to open any websites or any application in your desktop. I have used several libraries to bulid this project. Personally,this is my favourite project of all.
